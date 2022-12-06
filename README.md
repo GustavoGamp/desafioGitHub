@@ -1,4 +1,4 @@
-# Repositório do desafio de projeto sobre GIT-HUB
-Desafio de projeto sobre git-hub
+# Desafio de projeto sobre git-hub
+Repositório do desafio de projeto sobre GIT-HUB
 
-## [Sintaxe básica markdown](http://www.markdown.org/basic-syntax/)
+# [Sintaxe básica markdown](http://www.markdown.org/basic-syntax/)
